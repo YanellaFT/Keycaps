@@ -1,11 +1,11 @@
 # Keycaps
 Resolution Design Week 1
 
-## Regular
+### Regular
 18mm x 18mm
 
-## Spacebar
+### Spacebar
 119mm x 18mm
 
-## Tab
+### Tab
 28mm x 18mm
