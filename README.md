@@ -3,6 +3,14 @@ Resolution Design Week 1
 
 Designed using OnShape!
 
+
+### Backspace
+27mm x 18mm
+
+<img width="359" height="307" alt="image" src="https://github.com/user-attachments/assets/4c8bcef6-2314-4d59-963e-fb2b5d24ad82" />
+
+
+
 ### Regular
 18mm x 18mm
 
