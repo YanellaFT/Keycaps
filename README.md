@@ -3,6 +3,8 @@ Resolution Design Week 1
 
 Designed using OnShape!
 
+For Live demo: download files above to view
+
 
 ### Backspace
 27mm x 18mm
